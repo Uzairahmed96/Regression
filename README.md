@@ -1,2 +1,5 @@
 # Regression
-This repository contains house price predictions and Insurance Claims Severity Prediction
+This repository contains:
+1. House Price Predictions.
+2. Insurance Severity Claims.
+3. Restaurant Revenue Predictions.
